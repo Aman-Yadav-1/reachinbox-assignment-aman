@@ -4,7 +4,7 @@
 https://reachinbox-assignment-aman.vercel.app/
 
 ## VIDEO:
-https://reachinbox-assignmetn-aman.vercel.app/public/Screenshots/recording.mp4
+[DEMO VIDEO](https://drive.google.com/file/d/1otTTgnNOLnmJa4kOcSeYQM0vA8SmZhsn/view?usp=drive_link)
 
 ## Tech Stack used:
 * React.js
