@@ -1,7 +1,7 @@
 ## Reachinbox Frontend Assessment
 
 ## Deployed Link :
-https://reachinbox-assessment.vercel.app/
+https://reachinbox-assignment-aman.vercel.app/
 
 ## Tech Stack used:
 * React.js
@@ -46,7 +46,7 @@ Check out the demo video here: [Demo Video](https://www.loom.com/share/8917c8580
 
 ## Project Setup
 
-* git clone https://github.com/Keegan-20/reachinbox-assessment.git
+* git clone 
 * npm install
 * npm run dev
 
