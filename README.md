@@ -3,8 +3,8 @@
 ## Deployed Link :
 https://reachinbox-assignment-aman.vercel.app/
 
-##VIDEO:
-![Demo](./public/Screenshots/recording.mp4)
+## VIDEO:
+https://reachinbox-assignmetn-aman.vercel.app/public/Screenshots/recording.mp4
 
 ## Tech Stack used:
 * React.js
